@@ -1,0 +1,10 @@
+# Required dependencies
+# - These are always needed because the script directly imports them
+requests
+rich
+
+# Optional dependencies
+# - These are only used if available (the script handles their absence)
+PySocks
+stem
+fake-useragent
