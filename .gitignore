@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+bpyass_env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Results and logs
+results/
+logs/
+*.log
+*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
