@@ -350,7 +350,7 @@ def generate_html_report(results, tester, baseline=None):
     </html>
     """
     
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write(html)
     return path
 
