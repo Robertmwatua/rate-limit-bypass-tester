@@ -22,10 +22,13 @@ git clone https://github.com/Robertmwatua/rate-limit-bypass-tester.git
 cd rate-limit-bypass-tester
 
 # Install dependencies
- - method 1
+```
+# - method 1
+```bash
 pip3 install requests colorama
+```
+# - method 2
 
-- method 2 
 
 ```bash 
 # 3. Install dependencies
@@ -33,3 +36,4 @@ pip install -r requirements.txt
 
 # Run tool
 python3 bypass_tester.py
+```
