@@ -11,6 +11,8 @@ results/
 logs/
 *.log
 *.txt
+# execption 
+!requirements.txt
 
 # IDE
 .vscode/
