@@ -1,0 +1,10 @@
+{
+  "url": "https://vulnbank.org/register",
+  "timeout": 5,
+  "requests_per_technique": 15,
+  "use_tor": false,
+  "proxy": "",
+  "techniques": ["1", "2", "3", "4"],
+  "run_baseline": true,
+  "save_requests_log": true
+}
