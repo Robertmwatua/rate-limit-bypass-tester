@@ -1,0 +1,19 @@
+{
+  "url": "https://api.example.com/endpoint",
+  "timeout": 5,
+  "requests_per_technique": 20,
+  "use_tor": false,
+  "proxy": "",
+  "techniques": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "verbose": false,
+  "run_baseline": true,
+  "save_requests_log": true
+}
